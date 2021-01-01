@@ -1,0 +1,2 @@
+# finalwork_of_basic_computer_science
+期末大作业，关于自己的高中
